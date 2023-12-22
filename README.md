@@ -1,2 +1,2 @@
-# android-sdk
-Android SDK for SubscriptionFlow
+# Welcome to SubscriptionFlow's Sample Android App
+The SubscriptionFlow mobile SDK simplifies the process of incorporating in-app purchases and subscriptions by offering a backend and a wrapper for Google Play Billing. Utilizing our SDK, you can effortlessly develop and oversee your app business across various platforms, eliminating the need for you to handle the intricacies of in-app purchase infrastructure. Further information on how SubscriptionFlow integrates into your app is available, or you can register for free to commence the development process.
